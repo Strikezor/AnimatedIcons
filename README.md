@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Watch the video!
+
+[![Watch the video](https://www.geeksforgeeks.org/videos/create-an-animated-social-media-icons-in-react-and-tailwind-css/)]([https://www.youtube.com/watch?v=_5tFXJQIzi4](https://www.geeksforgeeks.org/videos/create-an-animated-social-media-icons-in-react-and-tailwind-css/))
+
 ## Available Scripts
 
 In the project directory, you can run:
