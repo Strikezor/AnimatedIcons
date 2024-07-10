@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Watch the video!
 
-[![Watch the video](https://www.geeksforgeeks.org/videos/create-an-animated-social-media-icons-in-react-and-tailwind-css/)]([https://www.youtube.com/watch?v=_5tFXJQIzi4](https://www.geeksforgeeks.org/videos/create-an-animated-social-media-icons-in-react-and-tailwind-css/))
+[Link to The video](https://www.geeksforgeeks.org/videos/create-an-animated-social-media-icons-in-react-and-tailwind-css/)
 
 ## Available Scripts
 
